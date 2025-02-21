@@ -16,7 +16,7 @@ https://agency-git-main-mahmoudfawzy10s-projects.vercel.app/
 
 ### 📌 **Project Description:**
 
-This project, **Bondi**, was built using **Bootstrap** to create a responsive and visually appealing website. The Bootstrap grid system, utility classes, and components were used to ensure a clean, structured layout with minimal custom CSS. The framework's responsiveness made it easy to optimize for different screen sizes, improving user experience and accessibility.
+This project, **Agency**, was built using **Bootstrap** to create a responsive and visually appealing website. The Bootstrap grid system, utility classes, and components were used to ensure a clean, structured layout with minimal custom CSS. The framework's responsiveness made it easy to optimize for different screen sizes, improving user experience and accessibility.
 
 A huge thank you to **Osama Elzero** for his incredible teaching and guidance. His tutorials have been a game-changer in my development journey! 🙌
 
